@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=+BAT Pin=R8-1
+Removed Pin From Net: NetName=+BAT Pin=R9-1
+Removed Pin From Net: NetName=+BAT Pin=R10-1
+Removed Pin From Net: NetName=+BAT Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R15-2
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R8 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R9 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R10 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R11 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R12 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R13 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R14 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R15 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1005X40X25NL05T10
+Change Component Comment : Designator=R1 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R4 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R8 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R9 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R10 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R11 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R12 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R13 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R14 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R15 Old Comment=RC0603FR-0710KL New Comment=RC0402FR-07100KL
+Change Component Comment : Designator=R5 Old Comment=RC0603JR-070RL New Comment=RC0402FR-070RL
+Change Component Comment : Designator=R6 Old Comment=RC0603JR-070RL New Comment=RC0402FR-070RL
+Change Component Comment : Designator=R2 Old Comment=RC0603JR-071K2L New Comment=RC0402FR-0710KL
+Change Component Comment : Designator=R3 Old Comment=RC0603JR-071K2L New Comment=RC0402FR-0710KL
+Change Component Kind : Designator=R14 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=R11 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=R9 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=R8 Old Kind=Standard (No BOM) New Kind=Standard
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=21DDF00D-EA98-476B-971D-138C4AF9B1C0 New ItemGUID=F30FB6D9-41F3-4F5C-A3EC-D13D57D4E64E Old RevisionGUID=E4BD6DD3-14F9-4B09-8DBE-491FB1C4DB51 New RevisionGUID=FB950915-BC06-4C3F-BB8B-3C71FDFD77AE
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=21DDF00D-EA98-476B-971D-138C4AF9B1C0 New ItemGUID=F30FB6D9-41F3-4F5C-A3EC-D13D57D4E64E Old RevisionGUID=E4BD6DD3-14F9-4B09-8DBE-491FB1C4DB51 New RevisionGUID=FB950915-BC06-4C3F-BB8B-3C71FDFD77AE
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=99126D87-B56D-4C6A-BB85-DD03502333F6 New ItemGUID=20DE1639-2D25-4A4A-8B54-396FBF819D48 Old RevisionGUID=64F0EF64-E995-48CA-9F08-BE4BC339E17E New RevisionGUID=D36B85A9-5E93-4369-8B11-F87737331F72
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=99126D87-B56D-4C6A-BB85-DD03502333F6 New ItemGUID=20DE1639-2D25-4A4A-8B54-396FBF819D48 Old RevisionGUID=64F0EF64-E995-48CA-9F08-BE4BC339E17E New RevisionGUID=D36B85A9-5E93-4369-8B11-F87737331F72
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=51846D92-C0CB-4951-BA04-A3CD714416C2 New ItemGUID=C19FFF46-BE36-41A2-B704-1BBE9A924BDD Old RevisionGUID=EAA274F9-6389-421B-AF61-9A5FE0597DC7 New RevisionGUID=9A6E0FE4-114E-4537-B4BE-E92BA8787226
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1608X55X25LL10T15"; UniqueID = "\ESUWATLF\ENHHNWAI" ("\ESUWATLF\ENHHNWAI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1608X55X25LL10T15"; UniqueID = "\ESUWATLF\EEMFLLGK" ("\ESUWATLF\EEMFLLGK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\ESUWATLF\QXUMMDHM" ("\ESUWATLF\QXUMMDHM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-070RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\ESUWATLF\NYMQZXRR" ("\ESUWATLF\NYMQZXRR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-070RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\ESUWATLF\ERVBTKRM" ("\ESUWATLF\ERVBTKRM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\ESUWATLF\UXGUDVPS" ("\ESUWATLF\UXGUDVPS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\BCRODQYD" ("\XYRWEHEZ\BCRODQYD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\TBPCCAZE" ("\XYRWEHEZ\TBPCCAZE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\AGYBEIZZ" ("\XYRWEHEZ\AGYBEIZZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\MKKQLRJE" ("\XYRWEHEZ\MKKQLRJE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\REXECKNY" ("\XYRWEHEZ\REXECKNY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\YHIKKOSV" ("\XYRWEHEZ\YHIKKOSV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\FEKETOLI" ("\XYRWEHEZ\FEKETOLI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\XYRWEHEZ\GAWWGQXB" ("\XYRWEHEZ\GAWWGQXB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BAT Pin=R8-2
+Added Pin To Net: NetName=+BAT Pin=R9-2
+Added Pin To Net: NetName=+BAT Pin=R10-2
+Added Pin To Net: NetName=+BAT Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R12-2
+Added Pin To Net: NetName=NetR8_1 Pin=U6-8
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R13-2
+Added Pin To Net: NetName=NetR9_1 Pin=U6-9
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R14-2
+Added Pin To Net: NetName=NetR10_1 Pin=U6-10
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R15-2
+Added Pin To Net: NetName=NetR11_1 Pin=U6-11
+Added Net: Name=NetR11_1

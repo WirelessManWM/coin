@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3.3_MCU Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=+3.3_MCU Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Member From Class: ClassName=ACC Member=C21
+Removed Member From Class: ClassName=ACC Member=C22
+Added Room: Name=ACC
+Added Room: Name=GYR
+Added Room: Name=HALL
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=RF
+Added Room: Name=USB

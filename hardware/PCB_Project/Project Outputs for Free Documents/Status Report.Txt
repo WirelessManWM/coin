@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Coin.PcbDoc]
+   Generated File[Coin.RUL]
+   Generated File[Coin.EXTREP]
+   Generated File[Coin.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:13:12 AM On 8/9/2020

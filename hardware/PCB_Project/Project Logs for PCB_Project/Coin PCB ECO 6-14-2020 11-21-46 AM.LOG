@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=TP1 NewDesignator=BAT+
+Change Component Designator: OldDesignator=TP2 NewDesignator=GND
+Added Room: Name=ACC
+Added Room: Name=GYR
+Added Room: Name=HALL
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=RF
+Added Room: Name=USB
